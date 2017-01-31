@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10106" started-at="2017-01-31T07:30:32Z" finished-at="2017-01-31T07:30:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10106" started-at="2017-01-31T07:30:32Z" finished-at="2017-01-31T07:30:42Z">
+      <class name="com.Demo.pack.TC1_HtmlUnitDriver">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Demo.pack.TC1_HtmlUnitDriver@cb5822]" name="setup" is-config="true" duration-ms="2434" started-at="2017-01-31T13:00:32Z" finished-at="2017-01-31T13:00:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_Htmldriver()[pri:0, instance:com.Demo.pack.TC1_HtmlUnitDriver@cb5822]" name="TC_Htmldriver" duration-ms="7656" started-at="2017-01-31T13:00:34Z" finished-at="2017-01-31T13:00:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Htmldriver -->
+      </class> <!-- com.Demo.pack.TC1_HtmlUnitDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
